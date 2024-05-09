@@ -1,0 +1,14 @@
+Variables:
+Las variables son como cajas en las que puedes guardar cosas. Por ejemplo, imagina que tienes una caja llamada juguetes y dentro pones tus juguetes favoritos. En programación, las variables son como esas cajas donde guardamos información que queremos recordar más tarde. Podemos darles nombres como nombre, edad, color, etc., y guardar diferentes tipos de información como números o palabras.
+
+Strings:
+Una string es como una cadena de caracteres o letras que podemos usar en la computadora. Por ejemplo, una string podría ser tu nombre: "Ana", o una frase: "Hola mundo". Es como una serie de letras que la computadora puede entender y mostrar en la pantalla.
+
+Funciones (argumentos, return):
+Una función es como una receta que le damos a la computadora para hacer algo especial. Le decimos qué queremos hacer y qué información necesitamos para hacerlo. Los "argumentos" son como ingredientes que le damos a la función para que trabaje. Por ejemplo, si queremos hacer una función para sumar números, le damos los números que queremos sumar como argumentos. El "return" es como el resultado que obtenemos después de que la función ha hecho su trabajo. Es lo que la función nos da de vuelta después de hacer lo que le pedimos.
+
+Declaraciones if:
+Una declaración if es como una decisión que le decimos a la computadora que tome. Por ejemplo, si queremos ir a jugar afuera, primero miramos por la ventana para ver si está lloviendo. Si está lloviendo, no podemos ir a jugar. La computadora también puede tomar decisiones usando if. Le decimos algo como: "Si es de día y hace sol, entonces podemos ir a jugar afuera".
+
+Valores booleanos (true, false):
+Los valores booleanos son como respuestas a preguntas simples. Por ejemplo, si te pregunto "¿Estás listo para ir a dormir?" puedes responder con "sí" o "no". En programación, usamos true y false para responder preguntas. Por ejemplo, si te pregunto "¿Es tu cumpleaños hoy?" y la respuesta es sí, entonces decimos true. Si la respuesta es no, decimos false.

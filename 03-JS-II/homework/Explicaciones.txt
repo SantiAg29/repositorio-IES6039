@@ -1,0 +1,9 @@
+FOR:
+El for es una herramienta que usamos en programación para hacer algo repetidamente. Imagina que quieres escribir muchas veces una palabra en un papel. El for es como una máquina que te ayuda a escribir esa palabra muchas veces sin cansarte. Le dices al for cuántas veces quieres hacer algo y él lo hace por ti.
+
+&&, ||, !:
+Estos son como amigos que nos ayudan a decidir cosas en la computadora.
+
+&& (y): Es como cuando tienes dos condiciones y ambas deben ser ciertas para que algo suceda. Por ejemplo, para ir a jugar afuera, debe ser de día (sol afuera) y tener buen clima (no llover).
+|| (o): Es como tener dos opciones y solo una necesita ser cierta para que algo suceda. Por ejemplo, si quiero ir al cine, puedo ver una película de acción (película divertida) o una de comedia (película graciosa), solo necesito que una de ellas sea cierta.
+! (no): Es como cambiar algo de falso a verdadero o de verdadero a falso. Por ejemplo, si digo "¡no quiero helado!", entonces significa que no quiero helado.
